@@ -1,0 +1,8 @@
+# Server details, including protocol of http/https
+host: http://www.webservicex.net/
+port: 
+
+# User credentials
+credentials:
+    username: tom
+    password: passwd
