@@ -1,6 +1,6 @@
 # soap-test
 
-SOAP Test is a Java Junit framework for testing SOAP 1.1 Web Services 
+SOAP Test is a Java Junit framework for testing SOAP Web Services 
 
 ## Run
 ```
